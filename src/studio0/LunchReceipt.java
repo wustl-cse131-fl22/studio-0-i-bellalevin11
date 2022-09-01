@@ -4,6 +4,7 @@ public class LunchReceipt {
 
 	public static void main(String[] args) {
 		
+		
 		double burritoPrice = 7.5;
 		double drinkPrice = 1.25;
 		double chipsPrice = 1.00;
